@@ -1,0 +1,17 @@
+Decorator pattern:allows behavior to be added to an individual object, either statically or dynamically, without affecting the behavior of other objects from the same class
+
+Visitor pattern:is a way of separating an algorithm from an object structure on which it operates. A practical result of this separation is the ability to add new operations to existing object structures without modifying those structures
+
+State pattern:is used in computer programming to encapsulate varying behavior for the same routine based on an object's state object. This can be a cleaner way for an object to change its behavior at runtime without resorting to large monolithic conditional statements. similar as strategy pattern
+
+Bridge pattern:meant to decouple an abstraction from its implementation so that the two can vary independently. The bridge uses encapsulation, aggregation, and can use inheritance to separate responsibilities into different classes.
+
+Adapter pattern:In software engineering, the adapter pattern is a software design pattern that allows the interface of an existing class to be used from another interface. It is often used to make existing classes work with others without modifying their source code.
+
+Observer pattern:is a software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods. It is mainly used to implement distributed event handling systems
+
+
+
+
+
+
